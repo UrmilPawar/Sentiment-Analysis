@@ -25,7 +25,11 @@ words and Word2Vec approach.
   - **Model Testing**
     - Various Combinations of models were tested for each Bag-of-Words and Word Embedding approach
     - Following is the result of analysis
-      ![Result](Result.png)
+    - ![Result](Result.png)
     - **Precision metric** was selected because it focuses on eliminating the false positives(people dislike something but it is predicted that they lied it) which can be crucial to eliminate in the case of various applications of sentiment analysis like product recommendation, etc where the product is recommended based on user liking.
 
+# For more detailed Information
+Please Refer
+- Report : https://docs.google.com/document/d/1Lbai3bppBYSwJyemldhQqFnHCzrtat41/edit?usp=sharing&ouid=100036865083389644506&rtpof=true&sd=true
+- Presentation : https://docs.google.com/presentation/d/1WwhSxxcSwEB8C8Eji3kLmvL_lINJNyCK/edit?usp=sharing&ouid=100036865083389644506&rtpof=true&sd=true
 
