@@ -16,7 +16,7 @@ words and Word2Vec approach.
     - Removing unnecessary characters, such as punctuation and special symbols
     - Removing numbers or we can say phone numbers
     - Removing stop words, which are common words like "and," "the," and "is"
-    - Removing repeating characters 
+    - Removing repeating characters.
     - Tokenization
     - Lemmatization
   - **Model Training**
